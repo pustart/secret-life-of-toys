@@ -17,17 +17,14 @@
 ### Образцы
 Разрешение 1080px и больше (декстоп):
 
-![Desktop](https://sun9-83.userapi.com/impg/_8evNyU53ufQqVvCy72VxtOuJmgS50teWscoqw/sDsN2-79p_E.jpg?
-size=2160x1200&quality=95&sign=59b7adbd54543bd850c7b210c2256136&type=album)
+![Desktop](https://sun9-83.userapi.com/impg/_8evNyU53ufQqVvCy72VxtOuJmgS50teWscoqw/sDsN2-79p_E.jpg?size=2160x1200&quality=95&sign=59b7adbd54543bd850c7b210c2256136&type=album)
 
 
 Разрешение 768px и меньше (планшеты):
 
-![Tablets](https://sun9-76.userapi.com/impg/D8I3pqk6MfLnRiLcyK431vBXH91kdxhwFo4cCA/oLKgxWVuzvA.jpg?
-size=768x528&quality=95&sign=7dac90b745ec2ab363c13beb4960540e&type=album)
+![Tablets](https://sun9-76.userapi.com/impg/D8I3pqk6MfLnRiLcyK431vBXH91kdxhwFo4cCA/oLKgxWVuzvA.jpg?size=768x528&quality=95&sign=7dac90b745ec2ab363c13beb4960540e&type=album)
 
 
 Разрешение 516px и меньше (мобилки):
 
-![Mobile](https://sun9-24.userapi.com/impg/IR36PCtDdttU4N59KsrzGqOsW7NLbUSucfP1nA/hxhQQXkHuac.jpg?
-size=516x960&quality=95&sign=84a063f6f68fa4c314c8742cb58bec0f&type=album)
+![Mobile](https://sun9-24.userapi.com/impg/IR36PCtDdttU4N59KsrzGqOsW7NLbUSucfP1nA/hxhQQXkHuac.jpg?size=516x960&quality=95&sign=84a063f6f68fa4c314c8742cb58bec0f&type=album)
